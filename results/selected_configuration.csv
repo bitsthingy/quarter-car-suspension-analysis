@@ -1,0 +1,2 @@
+Configuration,Scenario,ks_Npm,cs_Nspm,RMS_window_start_s,Body_accel_RMS_mps2,Body_accel_peak_mps2,Travel_peak_mm,Tyre_dynamic_load_RMS_N,Dynamic_load_coefficient,Minimum_total_tyre_load_N,Within_assumed_limits,Pareto_within_limits
+Sweep,multisine,12000,1500,2,0.420475908087549,1.14202827789803,10.104383947052,205.19854207881,0.06152141934365,2866.30550199849,1,1

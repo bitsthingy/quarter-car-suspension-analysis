@@ -1,0 +1,12 @@
+Check,Value,Maximum_allowed,Pass
+Constant_road_equilibrium,0.0,1e-10,True
+Largest_pole_real_part,-2.1230811765966564,0,True
+bump_force_ODE_vs_exact_max_relative,1.7519562757845252e-08,1e-05,True
+bump_RK4_1ms_vs_exact_max_relative,1.0725491156759155e-07,0.001,True
+sine_force_ODE_vs_exact_max_relative,9.025556510629784e-08,1e-05,True
+sine_RK4_1ms_vs_exact_max_relative,1.179626936190774e-08,0.001,True
+multisine_force_ODE_vs_exact_max_relative,3.6085009722047394e-08,1e-05,True
+multisine_RK4_1ms_vs_exact_max_relative,4.777054206411014e-07,0.001,True
+Free_decay_energy_balance_relative,0.00011205659615111231,0.002,True
+Free_decay_energy_increase_J,-1.5773067781841635e-14,1e-08,True
+Undamped_energy_conservation_relative,4.902731307352168e-10,1e-06,True

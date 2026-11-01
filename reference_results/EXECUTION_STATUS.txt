@@ -1,0 +1,6 @@
+Independent Python reference calculation: 11 checks passed.
+These files were generated separately from MATLAB and Simulink.
+MATLAB R2024a execution was subsequently completed in the desktop session.
+The actual MATLAB results are in ../results/: seven physics checks and
+21 MATLAB/Simulink comparisons passed. Refer to those CSVs for the final
+verification record. No experimental vehicle data was used.

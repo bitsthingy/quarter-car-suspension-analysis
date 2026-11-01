@@ -1,0 +1,10 @@
+# MATLAB/Simulink caches and local editor state; scientific outputs are tracked.
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.slx.autosave
+*.m~
+__pycache__/
+.DS_Store
+Thumbs.db

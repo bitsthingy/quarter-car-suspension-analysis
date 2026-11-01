@@ -1,0 +1,17 @@
+Parameter sweep: bump
+Parameter sweep: sine
+Parameter sweep: multisine
+    <strong>Configuration</strong>     <strong>Scenario</strong>      <strong>ks_Npm</strong>    <strong>cs_Nspm</strong>    <strong>RMS_window_start_s</strong>    <strong>Body_accel_RMS_mps2</strong>    <strong>Body_accel_peak_mps2</strong>    <strong>Travel_peak_mm</strong>    <strong>Tyre_dynamic_load_RMS_N</strong>    <strong>Dynamic_load_coefficient</strong>    <strong>Minimum_total_tyre_load_N</strong>    <strong>Within_assumed_limits</strong>
+    <strong>_____________</strong>    <strong>___________</strong>    <strong>______</strong>    <strong>_______</strong>    <strong>__________________</strong>    <strong>___________________</strong>    <strong>____________________</strong>    <strong>______________</strong>    <strong>_______________________</strong>    <strong>________________________</strong>    <strong>_________________________</strong>    <strong>_____________________</strong>
+
+     "Soft"          "bump"         12000      1000              1                   0.44383                 2.7355               37.408                138.26                     0.041452                     2537.3                      true         
+     "Baseline"      "bump"         18000      1500              1                   0.63873                 4.3555               40.013                195.54                     0.058627                     2048.8                      true         
+     "Firm"          "bump"         30000      2200              1                    0.9565                 6.8101               41.743                294.55                      0.08831                     1268.8                      true         
+     "Soft"          "sine"         12000      1000              2                   0.62173                0.91441               19.422                187.12                     0.056103                     3060.1                      true         
+     "Baseline"      "sine"         18000      1500              2                   0.83148                 1.1936               16.844                260.87                     0.078212                     2961.5                      true         
+     "Firm"          "sine"         30000      2200              2                   0.78494                 1.1472               9.9017                253.25                     0.075927                       2967                      true         
+     "Soft"          "multisine"    12000      1000              2                   0.36741                 1.0459               12.072                233.21                      0.06992                     2857.7                      true         
+     "Baseline"      "multisine"    18000      1500              2                   0.45269                 1.3062                10.49                 204.2                     0.061223                     2863.8                      true         
+     "Firm"          "multisine"    30000      2200              2                   0.57506                 1.8538               8.3415                206.61                     0.061944                     2853.4                      true         
+
+Saved results to <project>/results
