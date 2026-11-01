@@ -6,7 +6,7 @@ How much can a passive suspension improve ride comfort before the trade-off show
 
 The study compares **20 spring–damper combinations across three road inputs**, checks the model against basic physical principles, and selects a configuration using an explicit decision rule. All results below come from the saved MATLAB runs.
 
-**[Read the report (PDF)](docs/Project_Report.pdf)** · **[Report on GitHub](docs/PROJECT_REPORT.md)** · **[Project motivation](docs/MOTIVATION.md)** · **[Reproduce the study](docs/REPRODUCIBILITY.md)**
+**[Read the full report](docs/PROJECT_REPORT.md)** · **[Download the PDF](https://github.com/bitsthingy/quarter-car-suspension-analysis/raw/refs/heads/main/docs/Project_Report.pdf)** · **[Project motivation](docs/MOTIVATION.md)** · **[Reproduce the study](docs/REPRODUCIBILITY.md)**
 
 ![Comfort, suspension travel and tyre-load trade-offs](results/tradeoffs.png)
 

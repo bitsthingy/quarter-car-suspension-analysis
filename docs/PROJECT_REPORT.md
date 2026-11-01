@@ -2,6 +2,10 @@
 
 **Project report · Kushal Gayen · 1 November 2026**
 
+**[Download the formatted PDF](https://github.com/bitsthingy/quarter-car-suspension-analysis/raw/refs/heads/main/docs/Project_Report.pdf)** · [Back to project](../README.md)
+
+This page contains the report text, equations, tables and figures. If GitHub's PDF preview shows “Unable to render code block”, use the direct download link above and open the file in your PDF reader.
+
 ## 01 / Motivation and scope
 
 A suspension setting is a compromise between how the body responds, how far the suspension moves and how much the wheel load changes. This project examines that compromise with a passive quarter-car model and a finite parameter sweep.
